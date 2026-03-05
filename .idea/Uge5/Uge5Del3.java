@@ -15,12 +15,12 @@
 //Nedarving (is-a)
 //Kunne nogle klasser arve fra en fælles superklasse?
 //
-//Superklasse: Character (eller SpilFigur)
+//Superklasse: Character 
 
 //Subklasser der kunne arve:
-//Hero (helten)
-//Enemy (fjender)
-//NPC (ikke-spilbare karakterer)
+//Hero 
+//Enemy 
+//NPC 
 
 //Fælles felter i superklassen:
 //String navn
